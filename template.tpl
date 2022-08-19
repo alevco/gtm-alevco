@@ -64,6 +64,7 @@ log('alevcoData =', alevcoData);
 setInWindow('alevcoData', alevcoData, true);
 const url = 'https://cdn.alevco.de/alevco.min.js';
 injectScript(url, data.gtmOnSuccess, data.gtmOnFailure);
+data.gtmOnSuccess();
 
 
 ___WEB_PERMISSIONS___
@@ -184,6 +185,6 @@ scenarios: []
 
 ___NOTES___
 
-Created on 19.8.2022, 13:55:55
+Created on 19.8.2022, 14:46:39
 
 
