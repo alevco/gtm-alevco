@@ -15,5 +15,5 @@
 homepage: "https://www.alevco.net"
 documentation: "https://github.com/alevco/gtm-alevco"
 versions:
-  - sha: 52d9aa2846dcb7409790b5b4e92f67a49cad9964
-    changeNotes: Initial Commit
+  - sha: 27c71b85f0bf59b7c86cc54baa238c2e91108e47
+    changeNotes: Template fix
